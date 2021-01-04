@@ -1,0 +1,7 @@
+Copy the code to your project directory.
+Pip install flask and other packages and dependencies.
+Run the app.py file
+Use the following link to access the login API
+http://127.0.0.1:5000/login
+Use userId: tay and Password: 123 
+Good luck
